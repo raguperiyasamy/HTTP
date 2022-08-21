@@ -1,0 +1,8 @@
+DIFFERENCE HTTP 1.1 AND HTTP 2
+
+HTTP 1.1
+   1. Persistent connection,request queuing
+   2.pipelining,response queuing,head of line blocking
+
+HTTP 2
+    1.Multiplexing over single connection
